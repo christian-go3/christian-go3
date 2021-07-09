@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @christian-go3
-- 👀 I’m interested in ... many things
+- 👀 I’m interested in ... full-stack web devt
 - 🌱 I’m currently learning ... python and front-end web devt
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
